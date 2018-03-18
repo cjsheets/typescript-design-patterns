@@ -1,0 +1,15 @@
+site_name: 'Typescript Design Patterns'
+site_author: 'Chad Sheets'
+site_url: 'https://patterns.sheets.ch'
+
+docs_dir: 'docs'
+theme: 'rtd-dropdown'
+
+repo_name: 'GitHub'
+repo_url: 'https://github.com/cjsheets/typescript-design-patterns'
+copyright: Copyright &copy; 2018 <a href="http://sheetscj.com">Chad Sheets</a>.
+
+pages:
+  - Overview: index.md
+  - Behavioral:
+    - Command: behavioral/command.md

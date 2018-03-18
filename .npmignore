@@ -1,0 +1,9 @@
+.vscode/
+coverage/
+demo/
+node_modules/
+src/
+
+.gitignore
+tsconfig.json
+tslint.json

@@ -1,0 +1,16 @@
+# Compile Directories
+node_modules
+/coverage
+/dist
+.env
+.nyc_output
+
+# Editor configuration
+.vscode
+.settings
+.idea
+
+npm-debug.log
+
+yarn.lock
+yarn-error.log
